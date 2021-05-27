@@ -361,3 +361,17 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Assets/Nature_pixel_art_assets
+/Assets/Animated
+/Assets/Scenes
+/Assets/Sounds
+/Assets/Warped Caves
+/Assets/EnemyDeathEffect.prefab
+/UserSettings
+/Temp
+/ProjectSettings
+/Library
+/Chickens.sln
+/Assembly-CSharp.csproj
+/2d game.sln
+/.vsconfig
